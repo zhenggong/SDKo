@@ -10,7 +10,7 @@
 #    HUBOT_TRELLO_KEY
 #    HUBOT_TRELLO_TOKEN
 #    HUBOT_TRELLO_POST_LISTfdafdsafd
-#    ※heroku 環境設定
+#    ※heroku 環境設定fdsafsad
 #
 # Commands:
 #   
